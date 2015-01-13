@@ -1,3 +1,7 @@
+## Sample code for various items including:
+## defining functions, if statements, case statement
+## gets, puts, chomp, to_i, using and and or
+
 def get_name_and_age
 	puts "How much money do you have:"
 	money = gets.to_f
@@ -58,4 +62,3 @@ def evaluate_my_dogs(dogs)
 end
 
 get_name_and_age
-
