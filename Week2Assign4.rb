@@ -1,7 +1,7 @@
 ##String methods
 
 "hello".capitalize #converts the first letter to H
-"hello".delete "lo" #returns only the "hel"
+"hello".delete "lo" #returns only the "he"
 
 #these strings will be useful for handle imputs from users and then
 #comparing them to desired values. These can also be used for 
