@@ -9,6 +9,7 @@
 		puts "fizz"
 	elsif number%5==0
 		puts "buzz"
-	else puts number
+	else 
+		puts number
 	end
 end
