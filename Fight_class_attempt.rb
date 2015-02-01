@@ -29,3 +29,14 @@ fight_troll.attack
 
 fight_giant = Fight.new(health,"giant")
 fight_giant.attack
+
+class enemy
+	def initialize(type,level)
+		@type = type
+		@level = level
+	end
+
+	def level_up(factor)
+		@level = @level + factor
+	end
+end
