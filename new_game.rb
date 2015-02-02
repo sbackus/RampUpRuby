@@ -88,3 +88,6 @@ class Enemy
 		end #case end
 	end #initialize end
 end #Enemy end
+
+
+
